@@ -185,6 +185,22 @@ def main():
         textos[nombre] = extrae_texto(nombre, ruta, npag)
 
     filas = list(csv.DictReader(open(CIFRAS, encoding='utf-8')))
+    # documentos complementarios citados en T070_cgpe_v01.csv que no son la fuente principal del año
+    # (su SHA-256 esta en la nota de T070_fuentes_v01.csv)
+    for url in sorted({r['url'].strip() for r in filas} - {f['url'].strip() for f in fuentes}):
+        nombre = archivo_de(url)
+        ruta = os.path.join(PDF, nombre)
+        if not os.path.exists(ruta):
+            try:
+                descarga(url, ruta)
+            except Exception as e:
+                print(f'complemento: no se pudo descargar {url}: {e}')
+                problemas += 1
+                continue
+        npag = paginas_pdf(ruta)
+        print(f'complemento {nombre}: sha256 {sha256(ruta)}; paginas {npag}')
+        textos[nombre] = extrae_texto(nombre, ruta, npag)
+
     salida = []
     n_ok = n_no = n_na = 0
     for r in filas:
@@ -203,6 +219,8 @@ def main():
         else:
             ce = 'si' if cita_en(r['cita_literal'], textos[nombre][pag]) else 'no'
             ve = 'si' if valor_en(r['valor'], r['cita_literal'], r['variable']) else 'no'
+            if ce == 'si' and ve == 'no' and re.search(r'equilibr', r['cita_literal'], re.I):
+                nota = 'valor 0 escrito en palabras (equilibrio); sin numero impreso'
         if ce == 'si' and ve == 'si':
             n_ok += 1
         else:
