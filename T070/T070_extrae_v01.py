@@ -148,9 +148,9 @@ def valor_en(valor, cita, variable):
     v = valor.strip().lstrip('+-−').replace(',', '')
     if not re.fullmatch(r'\d+(\.\d+)?', v):
         return False
-    c2 = re.sub(r'(?<=\d),(?=\d{3}(?!\d))', '', c)       # 1,234.5 -> 1234.5
-    c2 = re.sub(r'(?<=\d) (?=\d{3}(?!\d))', '', c2)       # 1 234.5 -> 1234.5
-    return re.search(rf'(?<![\d.]){re.escape(v)}(?![\d])(?!\.\d)', c2) is not None
+    # cada numero de la cita como token completo; 1,234.5 cuenta como 1234.5
+    tokens = re.findall(r'(?<![\d.,])(?:\d{1,3}(?:,\d{3})+|\d+)(?:\.\d+)?', c)
+    return any(t.replace(',', '') == v for t in tokens)
 
 
 def main():
