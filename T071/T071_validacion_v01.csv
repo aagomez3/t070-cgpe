@@ -1,0 +1,780 @@
+anio,variable,archivo,valor_registrado,valor_releido,coincide,nota
+1970,pib,702825144296.pdf,444271.4,444271.4,si,texto leido: 444271.4
+1970,fbcf_total,702825144296.pdf,88660.6,,no_aplica,cifra leida de la imagen de la pagina
+1970,fbcf_privada,702825144296.pdf,59410.7,59410.7,si,texto leido: 59410.7
+1970,fbcf_publica,702825144296.pdf,29249.9,,no_aplica,cifra leida de la imagen de la pagina
+1971,pib,702825144296.pdf,490011.0,490011.0,si,texto leido: 490011.0
+1971,fbcf_total,702825144296.pdf,88072.7,88072.7,si,texto leido: 88072.7
+1971,fbcf_privada,702825144296.pdf,65365.3,65365.3,si,texto leido: 65365.3
+1971,fbcf_publica,702825144296.pdf,22707.4,22707.4,si,texto leido: 22707.4
+1972,pib,702825144296.pdf,564726.5,564726.5,si,texto leido: 564726.5
+1972,fbcf_total,702825144296.pdf,107128.8,107128.8,si,texto leido: 107128.8
+1972,fbcf_privada,702825144296.pdf,72769.3,72769.3,si,texto leido: 72 769.3
+1972,fbcf_publica,702825144296.pdf,34359.5,34359.5,si,texto leido: 34359.5
+1973,pib,702825144296.pdf,690891.3,690891.3,si,texto leido: 690891.3
+1973,fbcf_total,702825144296.pdf,133339.8,133339.8,si,texto leido: 133339.8
+1973,fbcf_privada,702825144296.pdf,81640.1,81640.1,si,texto leido: 81640.1
+1973,fbcf_publica,702825144296.pdf,51699.7,51699.7,si,texto leido: 51 699.7
+1974,pib,702825144296.pdf,899706.8,899706.8,si,texto leido: 899706.8
+1974,fbcf_total,702825144296.pdf,178874.3,178874.3,si,texto leido: 178874.3
+1974,fbcf_privada,702825144296.pdf,110984.5,110984.5,si,texto leido: 110984.5
+1974,fbcf_publica,702825144296.pdf,67889.8,67889.8,si,texto leido: 67889.8
+1975,pib,702825144296.pdf,1100049.8,1100049.8,si,texto leido: 1 100049.8
+1975,fbcf_total,702825144296.pdf,235607.1,235607.1,si,texto leido: 235607.1
+1975,fbcf_privada,702825144296.pdf,136884.4,136884.4,si,texto leido: 136884.4
+1975,fbcf_publica,702825144296.pdf,98722.7,98722.7,si,texto leido: 98722.7
+1976,pib,702825144296.pdf,1370968.3,1370968.3,si,texto leido: 1370968.3
+1976,fbcf_total,702825144296.pdf,288419.5,288419.5,si,texto leido: 288419.5
+1976,fbcf_privada,702825144296.pdf,176334.0,176334.0,si,texto leido: 176334.0
+1976,fbcf_publica,702825144296.pdf,112085.5,112085.5,si,texto leido: 112085.5
+1977,pib,702825144296.pdf,1849262.7,1849262.7,si,texto leido: 1 849262.7
+1977,fbcf_total,702825144296.pdf,363328.8,363328.8,si,texto leido: 363 328.8
+1977,fbcf_privada,702825144296.pdf,218603.7,218603.7,si,texto leido: 218603.7
+1977,fbcf_publica,702825144296.pdf,144725.1,144725.1,si,texto leido: 144 725.1
+1978,pib,702825144296.pdf,2337397.9,2337397.9,si,texto leido: 2337397.9
+1978,fbcf_total,702825144296.pdf,492425.3,492425.3,si,texto leido: 492425.3
+1978,fbcf_privada,702825144296.pdf,270317.3,270317.3,si,texto leido: 270317.3
+1978,fbcf_publica,702825144296.pdf,222108.0,222108.0,si,texto leido: 222108.0
+1979,pib,702825144296.pdf,3067526.4,3067526.4,si,texto leido: 3067526.4
+1979,fbcf_total,702825144296.pdf,718454.8,718454.8,si,texto leido: 718454.8
+1979,fbcf_privada,702825144296.pdf,403934.6,403934.6,si,texto leido: 403934.6
+1979,fbcf_publica,702825144296.pdf,314520.2,314520.2,si,texto leido: 314520.2
+1980,pib,702825144296.pdf,4276490.4,4276490.4,si,texto leido: 4276490.4
+1980,fbcf_total,702825144296.pdf,1032920.2,1032920.2,si,texto leido: 1 032920.2
+1980,fbcf_privada,702825144296.pdf,568566.9,568566.9,si,texto leido: 568566.9
+1980,fbcf_publica,702825144296.pdf,464353.3,464353.3,si,texto leido: 464 353.3
+1981,pib,702825144296.pdf,5874385.6,5874385.6,si,texto leido: 5874385.6
+1981,fbcf_total,702825144296.pdf,1509365.7,1509365.7,si,texto leido: 1 509365.7
+1981,fbcf_privada,702825144296.pdf,820614.7,820614.7,si,texto leido: 820614.7
+1981,fbcf_publica,702825144296.pdf,688751.0,688751.0,si,texto leido: 688 751.0
+1980,pib,702825146351_1.pdf,4470077,4470077,si,"texto leido: 4,470,077"
+1981,pib,702825146351_1.pdf,6127632,6127632,si,"texto leido: 6,127,632"
+1982,pib,702825146351_1.pdf,9797791,9797791,si,"texto leido: 9,797,791"
+1983,pib,702825146351_1.pdf,17878720,17878720,si,"texto leido: 17,878,720"
+1984,pib,702825146351_1.pdf,29471575,29471575,si,"texto leido: 29,471,575"
+1985,pib,702825146351_1.pdf,47402549,47402549,si,"texto leido: 47,402,549"
+1986,pib,702825146351_1.pdf,79353450,79353450,si,"texto leido: 79,353,450"
+1980,fbcf_total,702825146351_1.pdf,1106758,1106758,si,"texto leido: 1,106,758"
+1980,fbcf_privada,702825146351_1.pdf,630373,630373,si,"texto leido: 630,373"
+1980,fbcf_publica,702825146351_1.pdf,476385,476385,si,"texto leido: 476,385"
+1981,fbcf_total,702825146351_1.pdf,1616819,1616819,si,"texto leido: 1,616,819"
+1981,fbcf_privada,702825146351_1.pdf,875996,875996,si,"texto leido: 875,996"
+1981,fbcf_publica,702825146351_1.pdf,740823,740823,si,"texto leido: 740,823"
+1982,fbcf_total,702825146351_1.pdf,2248806,2248806,si,"texto leido: 2,248,806"
+1982,fbcf_privada,702825146351_1.pdf,1252321,1252321,si,"texto leido: 1,252,321"
+1982,fbcf_publica,702825146351_1.pdf,996485,996485,si,"texto leido: 996,485"
+1983,fbcf_total,702825146351_1.pdf,3136967,3136967,si,"texto leido: 3,136,967"
+1983,fbcf_privada,702825146351_1.pdf,1961416,1961416,si,"texto leido: 1,961,416"
+1983,fbcf_publica,702825146351_1.pdf,1175551,1175551,si,"texto leido: 1,175,551"
+1984,fbcf_total,702825146351_1.pdf,5287211,5287211,si,"texto leido: 5,287,211"
+1984,fbcf_privada,702825146351_1.pdf,3341135,3341135,si,"texto leido: 3,341,135"
+1984,fbcf_publica,702825146351_1.pdf,1946076,1946076,si,"texto leido: 1,946,076"
+1985,fbcf_total,702825146351_1.pdf,9075830,9075830,si,"texto leido: 9,075,830"
+1985,fbcf_privada,702825146351_1.pdf,5977825,5977825,si,"texto leido: 5,977,825"
+1985,fbcf_publica,702825146351_1.pdf,3098005,3098005,si,"texto leido: 3,098,005"
+1986,fbcf_total,702825146351_1.pdf,15399729,15399729,si,"texto leido: 15,399,729"
+1986,fbcf_privada,702825146351_1.pdf,10226821,10226821,si,"texto leido: 10,226,821"
+1986,fbcf_publica,702825146351_1.pdf,5172908,5172908,si,"texto leido: 5,172,908"
+1981,pib,702825146443_1.pdf,6127632,6127632,si,"texto leido: 6,127,632"
+1982,pib,702825146443_1.pdf,9797791,9797791,si,"texto leido: 9,797,791"
+1983,pib,702825146443_1.pdf,17878720,17878720,si,"texto leido: 17,878,720"
+1984,pib,702825146443_1.pdf,29471575,29471575,si,"texto leido: 29,471,575"
+1985,pib,702825146443_1.pdf,47391702,47391702,si,"texto leido: 47,391,702"
+1986,pib,702825146443_1.pdf,79442870,79442870,si,"texto leido: 79,442,870"
+1987,pib,702825146443_1.pdf,192934858,192934858,si,"texto leido: 192,934,858"
+1981,fbcf_total,702825146443_1.pdf,1616819,1616819,si,"texto leido: 1,616,819"
+1981,fbcf_privada,702825146443_1.pdf,875996,875996,si,"texto leido: 875,996"
+1981,fbcf_publica,702825146443_1.pdf,740823,740823,si,"texto leido: 740,823"
+1982,fbcf_total,702825146443_1.pdf,2248806,2248806,si,"texto leido: 2,248,806"
+1982,fbcf_privada,702825146443_1.pdf,1252321,1252321,si,"texto leido: 1,252,321"
+1982,fbcf_publica,702825146443_1.pdf,996485,996485,si,"texto leido: 996,485"
+1983,fbcf_total,702825146443_1.pdf,3136967,3136967,si,"texto leido: 3,136,967"
+1983,fbcf_privada,702825146443_1.pdf,1961416,1961416,si,"texto leido: 1,961,416"
+1983,fbcf_publica,702825146443_1.pdf,1175551,1175551,si,"texto leido: 1,175,551"
+1984,fbcf_total,702825146443_1.pdf,5287211,5287211,si,"texto leido: 5,287,211"
+1984,fbcf_privada,702825146443_1.pdf,3341135,3341135,si,"texto leido: 3,341,135"
+1984,fbcf_publica,702825146443_1.pdf,1946076,1946076,si,"texto leido: 1,946,076"
+1985,fbcf_total,702825146443_1.pdf,9048296,9048296,si,"texto leido: 9,048,296"
+1985,fbcf_privada,702825146443_1.pdf,5901493,5901493,si,"texto leido: 5,901,493"
+1985,fbcf_publica,702825146443_1.pdf,3146803,3146803,si,"texto leido: 3,146,803"
+1986,fbcf_total,702825146443_1.pdf,15414711,15414711,si,"texto leido: 15,414,711"
+1986,fbcf_privada,702825146443_1.pdf,10239050,10239050,si,"texto leido: 10,239,050"
+1986,fbcf_publica,702825146443_1.pdf,5175661,5175661,si,"texto leido: 5,175,661"
+1987,fbcf_total,702825146443_1.pdf,36484779,36484779,si,"texto leido: 36,484,779"
+1987,fbcf_privada,702825146443_1.pdf,25871662,25871662,si,"texto leido: 25,871,662"
+1987,fbcf_publica,702825146443_1.pdf,10613117,10613117,si,"texto leido: 10,613,117"
+1985,pib,702825147594_1.pdf,47391702,47391702,si,"texto leido: 47,391,702"
+1986,pib,702825147594_1.pdf,79535605,79535605,si,"texto leido: 79,535,605"
+1987,pib,702825147594_1.pdf,193612286,193612286,si,"texto leido: 193,612,286"
+1988,pib,702825147594_1.pdf,392791754,392791754,si,"texto leido: 392,791,754"
+1985,fbcf_total,702825147594_1.pdf,9048296,9048296,si,"texto leido: 9,048,296"
+1985,fbcf_privada,702825147594_1.pdf,5901493,5901493,si,"texto leido: 5,901,493"
+1985,fbcf_publica,702825147594_1.pdf,3146803,3146803,si,"texto leido: 3,146,803"
+1986,fbcf_total,702825147594_1.pdf,15414711,15414711,si,"texto leido: 15,414,711"
+1986,fbcf_privada,702825147594_1.pdf,10239050,10239050,si,"texto leido: 10,239,050"
+1986,fbcf_publica,702825147594_1.pdf,5175661,5175661,si,"texto leido: 5,175,661"
+1987,fbcf_total,702825147594_1.pdf,35630030,35630030,si,"texto leido: 35,630,030"
+1987,fbcf_privada,702825147594_1.pdf,25320912,25320912,si,"texto leido: 25,320,912"
+1987,fbcf_publica,702825147594_1.pdf,10309118,10309118,si,"texto leido: 10,309,118"
+1988,fbcf_total,702825147594_1.pdf,75057066,75057066,si,"texto leido: 75,057,066"
+1988,fbcf_privada,702825147594_1.pdf,55743909,55743909,si,"texto leido: 55,743,909"
+1988,fbcf_publica,702825147594_1.pdf,19313157,19313157,si,"texto leido: 19,313,157"
+1986,pib,702825147655_1.pdf,79535605,79535605,si,"texto leido: 79,535,605"
+1987,pib,702825147655_1.pdf,193701408,193701408,si,"texto leido: 193,701,408"
+1988,pib,702825147655_1.pdf,392714902,392714902,si,"texto leido: 392,714,902"
+1989,pib,702825147655_1.pdf,511537470,511537470,si,"texto leido: 511,537,470"
+1986,fbcf_total,702825147655_1.pdf,15414711,15414711,si,"texto leido: 15,414,711"
+1986,fbcf_privada,702825147655_1.pdf,10239050,10239050,si,"texto leido: 10,239,050"
+1986,fbcf_publica,702825147655_1.pdf,5175661,5175661,si,"texto leido: 5, 175,661"
+1987,fbcf_total,702825147655_1.pdf,35666849,35666849,si,"texto leido: 35,666,849"
+1987,fbcf_privada,702825147655_1.pdf,25596225,25596225,si,"texto leido: 25,596,225"
+1987,fbcf_publica,702825147655_1.pdf,10070624,10070624,si,"texto leido: 10,070,624"
+1988,fbcf_total,702825147655_1.pdf,75196314,,no_aplica,cifra leida de la imagen de la pagina
+1988,fbcf_privada,702825147655_1.pdf,55479042,55479042,si,"texto leido: 55,479,042"
+1988,fbcf_publica,702825147655_1.pdf,19717272,19717272,si,"texto leido: 19,717,272"
+1989,fbcf_total,702825147655_1.pdf,92619731,,no_aplica,cifra leida de la imagen de la pagina
+1989,fbcf_privada,702825147655_1.pdf,69905093,69905093,si,"texto leido: 69,905,093"
+1989,fbcf_publica,702825147655_1.pdf,22714638,22714638,si,"texto leido: 22,714,638"
+1987,pib,702825147693_1.pdf,192801935,192801935,si,"texto leido: 192,801,935"
+1988,pib,702825147693_1.pdf,389258523,389258523,si,"texto leido: 389,258,523"
+1989,pib,702825147693_1.pdf,503667765,503667765,si,"texto leido: 503,667,765"
+1990,pib,702825147693_1.pdf,678923486,678923486,si,"texto leido: 678,923,486"
+1987,fbcf_total,702825147693_2.pdf,35666849,35666849,si,"texto leido: 35,666,849"
+1987,fbcf_privada,702825147693_2.pdf,25596225,25596225,si,"texto leido: 25,596,225"
+1987,fbcf_publica,702825147693_2.pdf,10070624,10070624,si,"texto leido: 10,070,624"
+1988,fbcf_total,702825147693_2.pdf,75199042,75199042,si,"texto leido: 75,199,042"
+1988,fbcf_privada,702825147693_2.pdf,55481770,55481770,si,"texto leido: 55,481,770"
+1988,fbcf_publica,702825147693_2.pdf,19717272,19717272,si,"texto leido: 19,717,272"
+1989,fbcf_total,702825147693_2.pdf,92153361,92153361,si,"texto leido: 92,153,361"
+1989,fbcf_privada,702825147693_2.pdf,67678963,67678963,si,"texto leido: 67,678,963"
+1989,fbcf_publica,702825147693_2.pdf,24474398,24474398,si,"texto leido: 24,474,398"
+1990,fbcf_total,702825147693_2.pdf,127917569,127917569,si,"texto leido: 127,917,569"
+1990,fbcf_privada,702825147693_2.pdf,94381018,94381018,si,"texto leido: 94,381,018"
+1990,fbcf_publica,702825147693_2.pdf,33536551,33536551,si,"texto leido: 33,536,551"
+1988,pib,702825147754_1.pdf,390451299,390451299,si,"texto leido: 390,451,299"
+1989,pib,702825147754_1.pdf,507617999,507617999,si,"texto leido: 507,617,999"
+1990,pib,702825147754_1.pdf,686405724,686405724,si,"texto leido: 686,405,724"
+1991,pib,702825147754_1.pdf,865165724,865165724,si,"texto leido: 865,165,724"
+1988,fbcf_total,702825147754_2.pdf,75199042,75199042,si,"texto leido: 75,199,042"
+1988,fbcf_privada,702825147754_2.pdf,55481770,55481770,si,"texto leido: 55,481,770"
+1988,fbcf_publica,702825147754_2.pdf,19717272,19717272,si,"texto leido: 19,717,272"
+1989,fbcf_total,702825147754_2.pdf,92219705,92219705,si,"texto leido: 92,219,705"
+1989,fbcf_privada,702825147754_2.pdf,67745307,67745307,si,"texto leido: 67,745,307"
+1989,fbcf_publica,702825147754_2.pdf,24474398,24474398,si,"texto leido: 24,474,398"
+1990,fbcf_total,702825147754_2.pdf,127727621,127727621,si,"texto leido: 127,727,621"
+1990,fbcf_privada,702825147754_2.pdf,94210562,94210562,si,"texto leido: 94,210,562"
+1990,fbcf_publica,702825147754_2.pdf,33517059,33517059,si,"texto leido: 33,517,059"
+1991,fbcf_total,702825147754_2.pdf,168013961,168013961,si,"texto leido: 168,013,961"
+1991,fbcf_privada,702825147754_2.pdf,128612864,128612864,si,"texto leido: 128,612,864"
+1991,fbcf_publica,702825147754_2.pdf,39401097,39401097,si,"texto leido: 39,401,097"
+1989,pib,702825147839_1.pdf,507617999,507617999,si,"texto leido: 507,617,999"
+1990,pib,702825147839_1.pdf,686405724,686405724,si,"texto leido: 686,405,724"
+1991,pib,702825147839_1.pdf,865165724,865165724,si,"texto leido: 865,165,724"
+1992,pib,702825147839_1.pdf,1019155941,1019155941,si,"texto leido: 1,019,155,941"
+1989,fbcf_total,702825147839_1.pdf,92219705,92219705,si,"texto leido: 92,219,705"
+1989,fbcf_privada,702825147839_1.pdf,67745307,67745307,si,"texto leido: 67,745,307"
+1989,fbcf_publica,702825147839_1.pdf,24474398,24474398,si,"texto leido: 24,474,398"
+1990,fbcf_total,702825147839_1.pdf,127727621,127727621,si,"texto leido: 127,727,621"
+1990,fbcf_privada,702825147839_1.pdf,94210562,94210562,si,"texto leido: 94,210,562"
+1990,fbcf_publica,702825147839_1.pdf,33517059,33517059,si,"texto leido: 33,517,059"
+1991,fbcf_total,702825147839_1.pdf,168486470,168486470,si,"texto leido: 168,486,470"
+1991,fbcf_privada,702825147839_1.pdf,129085373,129085373,si,"texto leido: 129,085,373"
+1991,fbcf_publica,702825147839_1.pdf,39401097,39401097,si,"texto leido: 39,401,097"
+1992,fbcf_total,702825147839_1.pdf,211933480,211933480,si,"texto leido: 211,933,480"
+1992,fbcf_privada,702825147839_1.pdf,169034219,169034219,si,"texto leido: 169,034,219"
+1992,fbcf_publica,702825147839_1.pdf,42899261,42899261,si,"texto leido: 42,899,261"
+1990,pib,702825148751_1.pdf,686405724,686405724,si,"texto leido: 686,405,724"
+1991,pib,702825148751_1.pdf,865165724,865165724,si,"texto leido: 865,165,724"
+1992,pib,702825148751_1.pdf,1019155941,1019155941,si,"texto leido: 1,019,155,941"
+1993,pib,702825148751_1.pdf,1127584133,1127584133,si,"texto leido: 1,127,584,133"
+1990,fbcf_total,702825148751_1.pdf,127727621,127727621,si,"texto leido: 127,727,621"
+1990,fbcf_privada,702825148751_1.pdf,94210562,94210562,si,"texto leido: 94,210,562"
+1990,fbcf_publica,702825148751_1.pdf,33517059,33517059,si,"texto leido: 33,517,059"
+1991,fbcf_total,702825148751_1.pdf,168486470,168486470,si,"texto leido: 168,486,470"
+1991,fbcf_privada,702825148751_1.pdf,129085373,129085373,si,"texto leido: 129,085,373"
+1991,fbcf_publica,702825148751_1.pdf,39401097,39401097,si,"texto leido: 39,401,097"
+1992,fbcf_total,702825148751_1.pdf,211933480,211933480,si,"texto leido: 211,933,480"
+1992,fbcf_privada,702825148751_1.pdf,169034219,169034219,si,"texto leido: 169,034,219"
+1992,fbcf_publica,702825148751_1.pdf,42899261,42899261,si,"texto leido: 42,899,261"
+1993,fbcf_total,702825148751_1.pdf,229541388,229541388,si,"texto leido: 229,541,388"
+1993,fbcf_privada,702825148751_1.pdf,182430245,182430245,si,"texto leido: 182,430,245"
+1993,fbcf_publica,702825148751_1.pdf,47111143,47111143,si,"texto leido: 47,111,143"
+1988,fbcf_total,702825168346_2.pdf,77109763,,no_aplica,cifra leida de la imagen de la pagina
+1988,fbcf_privada,702825168346_2.pdf,58791781,,no_aplica,cifra leida de la imagen de la pagina
+1988,fbcf_publica,702825168346_2.pdf,18317982,,no_aplica,cifra leida de la imagen de la pagina
+1989,fbcf_total,702825168346_2.pdf,94669751,,no_aplica,cifra leida de la imagen de la pagina
+1989,fbcf_privada,702825168346_2.pdf,71602080,,no_aplica,cifra leida de la imagen de la pagina
+1989,fbcf_publica,702825168346_2.pdf,23067671,,no_aplica,cifra leida de la imagen de la pagina
+1990,fbcf_total,702825168346_2.pdf,132113394,,no_aplica,cifra leida de la imagen de la pagina
+1990,fbcf_privada,702825168346_2.pdf,100528172,,no_aplica,cifra leida de la imagen de la pagina
+1990,fbcf_publica,702825168346_2.pdf,31585222,,no_aplica,cifra leida de la imagen de la pagina
+1991,fbcf_total,702825168346_2.pdf,177043823,,no_aplica,cifra leida de la imagen de la pagina
+1991,fbcf_privada,702825168346_2.pdf,138505209,,no_aplica,cifra leida de la imagen de la pagina
+1991,fbcf_publica,702825168346_2.pdf,38538614,,no_aplica,cifra leida de la imagen de la pagina
+1992,fbcf_total,702825168346_2.pdf,220545498,,no_aplica,cifra leida de la imagen de la pagina
+1992,fbcf_privada,702825168346_2.pdf,177948625,,no_aplica,cifra leida de la imagen de la pagina
+1992,fbcf_publica,702825168346_2.pdf,42596873,,no_aplica,cifra leida de la imagen de la pagina
+1993,fbcf_total,702825168346_2.pdf,233179391,,no_aplica,cifra leida de la imagen de la pagina
+1993,fbcf_privada,702825168346_2.pdf,185915615,,no_aplica,cifra leida de la imagen de la pagina
+1993,fbcf_publica,702825168346_2.pdf,47263776,,no_aplica,cifra leida de la imagen de la pagina
+1994,fbcf_total,702825168346_2.pdf,274861324,,no_aplica,cifra leida de la imagen de la pagina
+1994,fbcf_privada,702825168346_2.pdf,203689664,,no_aplica,cifra leida de la imagen de la pagina
+1994,fbcf_publica,702825168346_2.pdf,71171660,,no_aplica,cifra leida de la imagen de la pagina
+1995,fbcf_total,702825168346_2.pdf,296708203,,no_aplica,cifra leida de la imagen de la pagina
+1995,fbcf_privada,702825168346_2.pdf,227826997,,no_aplica,cifra leida de la imagen de la pagina
+1995,fbcf_publica,702825168346_2.pdf,68881206,,no_aplica,cifra leida de la imagen de la pagina
+1996,fbcf_total,702825168346_2.pdf,451080747,,no_aplica,cifra leida de la imagen de la pagina
+1996,fbcf_privada,702825168346_2.pdf,375327413,,no_aplica,cifra leida de la imagen de la pagina
+1996,fbcf_publica,702825168346_2.pdf,75753334,,no_aplica,cifra leida de la imagen de la pagina
+1997,fbcf_total,702825168346_2.pdf,619493698,,no_aplica,cifra leida de la imagen de la pagina
+1997,fbcf_privada,702825168346_2.pdf,521238555,,no_aplica,cifra leida de la imagen de la pagina
+1997,fbcf_publica,702825168346_2.pdf,98255143,,no_aplica,cifra leida de la imagen de la pagina
+1998,fbcf_total,702825168346_2.pdf,804001611,,no_aplica,cifra leida de la imagen de la pagina
+1998,fbcf_privada,702825168346_2.pdf,696461897,,no_aplica,cifra leida de la imagen de la pagina
+1998,fbcf_publica,702825168346_2.pdf,107539714,,no_aplica,cifra leida de la imagen de la pagina
+1999,fbcf_total,702825168346_2.pdf,973708680,,no_aplica,cifra leida de la imagen de la pagina
+1999,fbcf_privada,702825168346_2.pdf,841513800,,no_aplica,cifra leida de la imagen de la pagina
+1999,fbcf_publica,702825168346_2.pdf,132194880,,no_aplica,cifra leida de la imagen de la pagina
+1988,pib,702825168346_1.pdf,416305236,,no_aplica,cifra leida de la imagen de la pagina
+1989,pib,702825168346_1.pdf,548857974,,no_aplica,cifra leida de la imagen de la pagina
+1990,pib,702825168346_1.pdf,738897516,,no_aplica,cifra leida de la imagen de la pagina
+1991,pib,702825168346_1.pdf,949147624,,no_aplica,cifra leida de la imagen de la pagina
+1992,pib,702825168346_1.pdf,1125334287,,no_aplica,cifra leida de la imagen de la pagina
+1993,pib,702825168346_1.pdf,1256195971,,no_aplica,cifra leida de la imagen de la pagina
+1994,pib,702825168346_1.pdf,1420159456,,no_aplica,cifra leida de la imagen de la pagina
+1995,pib,702825168346_1.pdf,1837019067,,no_aplica,cifra leida de la imagen de la pagina
+1996,pib,702825168346_1.pdf,2525575029,,no_aplica,cifra leida de la imagen de la pagina
+1997,pib,702825168346_1.pdf,3174275217,,no_aplica,cifra leida de la imagen de la pagina
+1998,pib,702825168346_1.pdf,3846349882,,no_aplica,cifra leida de la imagen de la pagina
+1999,pib,702825168346_1.pdf,4583762250,,no_aplica,cifra leida de la imagen de la pagina
+1970,fbcf_total,8. Informacion economica agregada.pdf,88661,88661,si,texto leido: 88 661
+1970,fbcf_publica,8. Informacion economica agregada.pdf,29250,29250,si,texto leido: 29 250
+1970,fbcf_privada,8. Informacion economica agregada.pdf,59411,59411,si,texto leido: 59 411
+1975,fbcf_total,8. Informacion economica agregada.pdf,132316,132316,si,texto leido: 132 316
+1975,fbcf_publica,8. Informacion economica agregada.pdf,54733,54733,si,texto leido: 54 733
+1975,fbcf_privada,8. Informacion economica agregada.pdf,77583,77583,si,texto leido: 77 583
+1976,fbcf_total,8. Informacion economica agregada.pdf,132910,132910,si,texto leido: 132 910
+1976,fbcf_publica,8. Informacion economica agregada.pdf,50597,50597,si,texto leido: 50 597
+1976,fbcf_privada,8. Informacion economica agregada.pdf,82312,82312,si,texto leido: 82 312
+1977,fbcf_total,8. Informacion economica agregada.pdf,123987,123987,si,texto leido: 123 987
+1977,fbcf_publica,8. Informacion economica agregada.pdf,47212,47212,si,texto leido: 47 212
+1977,fbcf_privada,8. Informacion economica agregada.pdf,76774,76774,si,texto leido: 76 774
+1978,fbcf_total,8. Informacion economica agregada.pdf,142799,142799,si,texto leido: 142 799
+1978,fbcf_publica,8. Informacion economica agregada.pdf,62122,62122,si,texto leido: 62 122
+1978,fbcf_privada,8. Informacion economica agregada.pdf,80677,80677,si,texto leido: 80 677
+1979,fbcf_total,8. Informacion economica agregada.pdf,171714,171714,si,texto leido: 171 714
+1979,fbcf_publica,8. Informacion economica agregada.pdf,72753,72753,si,texto leido: 72 753
+1979,fbcf_privada,8. Informacion economica agregada.pdf,98961,98961,si,texto leido: 98 961
+1980,fbcf_total,8. Informacion economica agregada.pdf,197364,197364,si,texto leido: 197 364
+1980,fbcf_publica,8. Informacion economica agregada.pdf,84870,84870,si,texto leido: 84 870
+1980,fbcf_privada,8. Informacion economica agregada.pdf,112494,112494,si,texto leido: 112 494
+1980,fbcf_total,8. Informacion economica agregada.pdf,1106758,1106758,si,texto leido: 1 106 758
+1980,fbcf_publica,8. Informacion economica agregada.pdf,476385,476385,si,texto leido: 476 385
+1980,fbcf_privada,8. Informacion economica agregada.pdf,630373,630373,si,texto leido: 630 373
+1981,fbcf_total,8. Informacion economica agregada.pdf,1286376,1286376,si,texto leido: 1 286 376
+1981,fbcf_publica,8. Informacion economica agregada.pdf,583375,583375,si,texto leido: 583 375
+1981,fbcf_privada,8. Informacion economica agregada.pdf,703001,703001,si,texto leido: 703 001
+1982,fbcf_total,8. Informacion economica agregada.pdf,1070371,1070371,si,texto leido: 1 070 371
+1982,fbcf_publica,8. Informacion economica agregada.pdf,473538,473538,si,texto leido: 473 538
+1982,fbcf_privada,8. Informacion economica agregada.pdf,596833,596833,si,texto leido: 596 833
+1983,fbcf_total,8. Informacion economica agregada.pdf,767667,767667,si,texto leido: 767 667
+1983,fbcf_publica,8. Informacion economica agregada.pdf,302969,302969,si,texto leido: 302 969
+1983,fbcf_privada,8. Informacion economica agregada.pdf,464698,464698,si,texto leido: 464 698
+1984,fbcf_total,8. Informacion economica agregada.pdf,817006,817006,si,texto leido: 817 006
+1984,fbcf_publica,8. Informacion economica agregada.pdf,315407,315407,si,texto leido: 315 407
+1984,fbcf_privada,8. Informacion economica agregada.pdf,501599,501599,si,texto leido: 501 599
+1985,fbcf_total,8. Informacion economica agregada.pdf,881160,881160,si,texto leido: 881 160
+1985,fbcf_publica,8. Informacion economica agregada.pdf,318209,318209,si,texto leido: 318 209
+1985,fbcf_privada,8. Informacion economica agregada.pdf,562951,562951,si,texto leido: 562 951
+1986,fbcf_total,8. Informacion economica agregada.pdf,777198,777198,si,texto leido: 777 198
+1986,fbcf_publica,8. Informacion economica agregada.pdf,272901,272901,si,texto leido: 272 901
+1986,fbcf_privada,8. Informacion economica agregada.pdf,504297,504297,si,texto leido: 504 297
+1987,fbcf_total,8. Informacion economica agregada.pdf,776246,776246,si,texto leido: 776 246
+1987,fbcf_publica,8. Informacion economica agregada.pdf,239454,239454,si,texto leido: 239 454
+1987,fbcf_privada,8. Informacion economica agregada.pdf,536792,536792,si,texto leido: 536 792
+1988,fbcf_total,8. Informacion economica agregada.pdf,821117,821117,si,texto leido: 821 117
+1988,fbcf_publica,8. Informacion economica agregada.pdf,229343,229343,si,texto leido: 229 343
+1988,fbcf_privada,8. Informacion economica agregada.pdf,591774,591774,si,texto leido: 591 774
+1989,fbcf_total,8. Informacion economica agregada.pdf,873599,873599,si,texto leido: 873 599
+1989,fbcf_publica,8. Informacion economica agregada.pdf,237542,237542,si,texto leido: 237 542
+1989,fbcf_privada,8. Informacion economica agregada.pdf,636057,636057,si,texto leido: 636 057
+1990,fbcf_total,8. Informacion economica agregada.pdf,988265,988265,si,texto leido: 988 265
+1990,fbcf_publica,8. Informacion economica agregada.pdf,267798,267798,si,texto leido: 267 798
+1990,fbcf_privada,8. Informacion economica agregada.pdf,720467,720467,si,texto leido: 720 467
+1991,fbcf_total,8. Informacion economica agregada.pdf,1070379,1070379,si,texto leido: 1 070 379
+1991,fbcf_publica,8. Informacion economica agregada.pdf,256025,256025,si,texto leido: 256 025
+1991,fbcf_privada,8. Informacion economica agregada.pdf,814354,814354,si,texto leido: 814 354
+1992,fbcf_total,8. Informacion economica agregada.pdf,1186485,1186485,si,texto leido: 1 186 485
+1992,fbcf_publica,8. Informacion economica agregada.pdf,243324,243324,si,texto leido: 243 324
+1992,fbcf_privada,8. Informacion economica agregada.pdf,943161,943161,si,texto leido: 943 161
+1993,fbcf_total,8. Informacion economica agregada.pdf,1171780,1171780,si,texto leido: 1 171 780
+1993,fbcf_publica,8. Informacion economica agregada.pdf,234183,234183,si,texto leido: 234 183
+1993,fbcf_privada,8. Informacion economica agregada.pdf,937597,937597,si,texto leido: 937 597
+1994,fbcf_total,8. Informacion economica agregada.pdf,1267019,1267019,si,texto leido: 1 267 019
+1994,fbcf_publica,8. Informacion economica agregada.pdf,255043,255043,si,texto leido: 255 043
+1994,fbcf_privada,8. Informacion economica agregada.pdf,1011976,1011976,si,texto leido: 1 011 976
+1988,fbcf_total,8. Informacion economica agregada.pdf,162547871,162547871,si,texto leido: 162 547 871
+1988,fbcf_publica,8. Informacion economica agregada.pdf,40631980,40631980,si,texto leido: 40 631 980
+1988,fbcf_privada,8. Informacion economica agregada.pdf,121915891,121915891,si,texto leido: 121 915 891
+1989,fbcf_total,8. Informacion economica agregada.pdf,171896265,171896265,si,texto leido: 171 896 265
+1989,fbcf_publica,8. Informacion economica agregada.pdf,43525565,43525565,si,texto leido: 43 525 565
+1989,fbcf_privada,8. Informacion economica agregada.pdf,128370700,128370700,si,texto leido: 128 370 700
+1990,fbcf_total,8. Informacion economica agregada.pdf,194455851,194455851,si,texto leido: 194 455 851
+1990,fbcf_publica,8. Informacion economica agregada.pdf,48404670,48404670,si,texto leido: 48 404 670
+1990,fbcf_privada,8. Informacion economica agregada.pdf,146051181,146051181,si,texto leido: 146 051 181
+1991,fbcf_total,8. Informacion economica agregada.pdf,215833078,215833078,si,texto leido: 215 833 078
+1991,fbcf_publica,8. Informacion economica agregada.pdf,48676162,48676162,si,texto leido: 48 676 162
+1991,fbcf_privada,8. Informacion economica agregada.pdf,167156916,167156916,si,texto leido: 167 156 916
+1992,fbcf_total,8. Informacion economica agregada.pdf,239227040,239227040,si,texto leido: 239 227 040
+1992,fbcf_publica,8. Informacion economica agregada.pdf,47071261,47071261,si,texto leido: 47 071 261
+1992,fbcf_privada,8. Informacion economica agregada.pdf,192155779,192155779,si,texto leido: 192 155 779
+1993,fbcf_total,8. Informacion economica agregada.pdf,233179391,233179391,si,texto leido: 233 179 391
+1993,fbcf_publica,8. Informacion economica agregada.pdf,47263776,47263776,si,texto leido: 47 263 776
+1993,fbcf_privada,8. Informacion economica agregada.pdf,185915615,185915615,si,texto leido: 185 915 615
+1994,fbcf_total,8. Informacion economica agregada.pdf,252745239,252745239,si,texto leido: 252 745 239
+1994,fbcf_publica,8. Informacion economica agregada.pdf,48635900,48635900,si,texto leido: 48 635 900
+1994,fbcf_privada,8. Informacion economica agregada.pdf,204109339,204109339,si,texto leido: 204 109 339
+1995,fbcf_total,8. Informacion economica agregada.pdf,179442050,179442050,si,texto leido: 179 442 050
+1995,fbcf_publica,8. Informacion economica agregada.pdf,44580210,44580210,si,texto leido: 44 580 210
+1995,fbcf_privada,8. Informacion economica agregada.pdf,134861840,134861840,si,texto leido: 134 861 840
+1996,fbcf_total,8. Informacion economica agregada.pdf,208860498,208860498,si,texto leido: 208 860 498
+1996,fbcf_publica,8. Informacion economica agregada.pdf,37991926,37991926,si,texto leido: 37 991 926
+1996,fbcf_privada,8. Informacion economica agregada.pdf,170868572,170868572,si,texto leido: 170 868 572
+1997,fbcf_total,8. Informacion economica agregada.pdf,252797408,252797408,si,texto leido: 252 797 408
+1997,fbcf_publica,8. Informacion economica agregada.pdf,41837407,41837407,si,texto leido: 41 837 407
+1997,fbcf_privada,8. Informacion economica agregada.pdf,210960001,210960001,si,texto leido: 210 960 001
+1998,fbcf_total,8. Informacion economica agregada.pdf,278787777,278787777,si,texto leido: 278 787 777
+1998,fbcf_publica,8. Informacion economica agregada.pdf,38713271,38713271,si,texto leido: 38 713 271
+1998,fbcf_privada,8. Informacion economica agregada.pdf,240074506,240074506,si,texto leido: 240 074 506
+1999,fbcf_total,8. Informacion economica agregada.pdf,300278567,300278567,si,texto leido: 300 278 567
+1999,fbcf_publica,8. Informacion economica agregada.pdf,42862317,42862317,si,texto leido: 42 862 317
+1999,fbcf_privada,8. Informacion economica agregada.pdf,257416250,257416250,si,texto leido: 257 416 250
+2000,fbcf_total,8. Informacion economica agregada.pdf,334383183,334383183,si,texto leido: 334 383 183
+2000,fbcf_publica,8. Informacion economica agregada.pdf,53673008,53673008,si,texto leido: 53 673 008
+2000,fbcf_privada,8. Informacion economica agregada.pdf,280710175,280710175,si,texto leido: 280 710 175
+2001,fbcf_total,8. Informacion economica agregada.pdf,315531688,315531688,si,texto leido: 315 531 688
+2001,fbcf_publica,8. Informacion economica agregada.pdf,51397426,51397426,si,texto leido: 51 397 426
+2001,fbcf_privada,8. Informacion economica agregada.pdf,264134262,264134262,si,texto leido: 264 134 262
+2002,fbcf_total,8. Informacion economica agregada.pdf,313517273,313517273,si,texto leido: 313 517 273
+2002,fbcf_publica,8. Informacion economica agregada.pdf,60114046,60114046,si,texto leido: 60 114 046
+2002,fbcf_privada,8. Informacion economica agregada.pdf,253403227,253403227,si,texto leido: 253 403 227
+2003,fbcf_total,8. Informacion economica agregada.pdf,314674252,314674252,si,texto leido: 314 674 252
+2003,fbcf_publica,8. Informacion economica agregada.pdf,65198981,65198981,si,texto leido: 65 198 981
+2003,fbcf_privada,8. Informacion economica agregada.pdf,249475271,249475271,si,texto leido: 249 475 271
+2004,fbcf_total,8. Informacion economica agregada.pdf,338286856,338286856,si,texto leido: 338 286 856
+2004,fbcf_publica,8. Informacion economica agregada.pdf,66820883,66820883,si,texto leido: 66 820 883
+2004,fbcf_privada,8. Informacion economica agregada.pdf,271465973,271465973,si,texto leido: 271 465 973
+1970,pib,8. Informacion economica agregada.pdf,444271,444271,si,texto leido: 444 271
+1970,pib,8. Informacion economica agregada.pdf,444271,444271,si,texto leido: 444 271
+1980,pib,8. Informacion economica agregada.pdf,4392,4392,si,texto leido: 4 392
+1980,pib,8. Informacion economica agregada.pdf,872290,872290,si,texto leido: 872 290
+1990,pib,8. Informacion economica agregada.pdf,676067,676067,si,texto leido: 676 067
+1990,pib,8. Informacion economica agregada.pdf,1049064,1049064,si,texto leido: 1 049 064
+1995,pib,8. Informacion economica agregada.pdf,1678835,1678835,si,texto leido: 1 678 835
+1995,pib,8. Informacion economica agregada.pdf,1131753,1131753,si,texto leido: 1 131 753
+1996,pib,8. Informacion economica agregada.pdf,2296792,2296792,si,texto leido: 2 296 792
+1996,pib,8. Informacion economica agregada.pdf,1190345,1190345,si,texto leido: 1 190 345
+1997,pib,8. Informacion economica agregada.pdf,2922035,2922035,si,texto leido: 2 922 035
+1997,pib,8. Informacion economica agregada.pdf,1273383,1273383,si,texto leido: 1 273 383
+2025,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,22.4057642595625,22.4057642595625,si,texto leido: 22.4057642595625
+2024,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,23.7623066664138,23.7623066664138,si,texto leido: 23.7623066664138
+2023,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,23.2773827772419,23.2773827772419,si,texto leido: 23.2773827772419
+2022,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,22.4237578758145,22.4237578758145,si,texto leido: 22.4237578758145
+2021,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,21.3097325562162,21.3097325562162,si,texto leido: 21.3097325562162
+2020,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,20.1075280652557,20.1075280652557,si,texto leido: 20.1075280652557
+2019,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,21.6659739999182,21.6659739999182,si,texto leido: 21.6659739999182
+2018,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,23.0474727923304,23.0474727923304,si,texto leido: 23.0474727923304
+2017,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,23.225539776985,23.225539776985,si,texto leido: 23.225539776985
+2016,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,23.7277194380681,23.7277194380681,si,texto leido: 23.7277194380681
+2015,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,23.1641829988633,23.1641829988633,si,texto leido: 23.1641829988633
+2014,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,21.6713070677381,21.6713070677381,si,texto leido: 21.6713070677381
+2013,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,21.9901857822204,21.9901857822204,si,texto leido: 21.9901857822204
+2012,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,23.6882073382403,23.6882073382403,si,texto leido: 23.6882073382403
+2011,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,23.4720687923852,23.4720687923852,si,texto leido: 23.4720687923852
+2010,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,22.5530971573063,22.5530971573063,si,texto leido: 22.5530971573063
+2009,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,22.77438581235,22.77438581235,si,texto leido: 22.77438581235
+2008,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,23.5591739565606,23.5591739565606,si,texto leido: 23.5591739565606
+2007,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,22.3548818517852,22.3548818517852,si,texto leido: 22.3548818517852
+2006,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,21.6799481845682,21.6799481845682,si,texto leido: 21.6799481845682
+2005,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,20.710349715794,20.710349715794,si,texto leido: 20.710349715794
+2004,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,20.780907227933,20.780907227933,si,texto leido: 20.780907227933
+2003,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,20.1040413065119,20.1040413065119,si,texto leido: 20.1040413065119
+2002,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,19.3679310017379,19.3679310017379,si,texto leido: 19.3679310017379
+2001,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,19.6734365305226,19.6734365305226,si,texto leido: 19.6734365305226
+2000,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,21.230361512511,21.230361512511,si,texto leido: 21.230361512511
+1999,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,20.8990237565587,20.8990237565587,si,texto leido: 20.8990237565587
+1998,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,21.0153555461506,21.0153555461506,si,texto leido: 21.0153555461506
+1997,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,19.394799246083,19.394799246083,si,texto leido: 19.394799246083
+1996,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,17.7149734982107,17.7149734982107,si,texto leido: 17.7149734982107
+1995,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,16.2136300913179,16.2136300913179,si,texto leido: 16.2136300913179
+1994,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,21.6662652273206,21.6662652273206,si,texto leido: 21.6662652273206
+1993,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,20.055415222994,20.055415222994,si,texto leido: 20.055415222994
+1992,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,19.6225950179852,19.6225950179852,si,texto leido: 19.6225950179852
+1991,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,18.7310274356321,18.7310274356321,si,texto leido: 18.7310274356321
+1990,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,17.979459106598,17.979459106598,si,texto leido: 17.979459106598
+1989,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,17.3713057570827,17.3713057570827,si,texto leido: 17.3713057570827
+1988,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,18.6787307285287,18.6787307285287,si,texto leido: 18.6787307285287
+1987,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,17.5404424984969,17.5404424984969,si,texto leido: 17.5404424984969
+1986,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,18.7258655481456,18.7258655481456,si,texto leido: 18.7258655481456
+1985,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,18.0417580456071,18.0417580456071,si,texto leido: 18.0417580456071
+1984,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,17.1001568319677,17.1001568319677,si,texto leido: 17.1001568319677
+1983,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,16.7262803273827,16.7262803273827,si,texto leido: 16.7262803273827
+1982,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,21.5983038346347,21.5983038346347,si,texto leido: 21.5983038346347
+1981,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,25.0010524580259,25.0010524580259,si,texto leido: 25.0010524580259
+1980,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,23.4572132290308,23.4572132290308,si,texto leido: 23.4572132290308
+1979,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,23.4176923076923,23.4176923076923,si,texto leido: 23.4176923076923
+1978,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,21.0708301240907,21.0708301240907,si,texto leido: 21.0708301240907
+1977,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,19.6500162249865,19.6500162249865,si,texto leido: 19.6500162249865
+1976,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,21.0371626549964,21.0371626549964,si,texto leido: 21.0371626549964
+1975,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,21.4188272727273,21.4188272727273,si,texto leido: 21.4188272727273
+1974,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,19.8749222222222,19.8749222222222,si,texto leido: 19.8749222222222
+1973,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,19.2966425470333,19.2966425470333,si,texto leido: 19.2966425470333
+1972,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,18.9608495575221,18.9608495575221,si,texto leido: 18.9608495575221
+1971,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,17.9740204081633,17.9740204081633,si,texto leido: 17.9740204081633
+1970,fbcf_total,MEX_NE.GDI.FTOT.ZS.json,19.969954954955,19.969954954955,si,texto leido: 19.969954954955
+2025,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,19.2062392734912,19.2062392734912,si,texto leido: 19.2062392734912
+2024,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,19.7030904690399,19.7030904690399,si,texto leido: 19.7030904690399
+2023,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,20.1480213446922,20.1480213446922,si,texto leido: 20.1480213446922
+2022,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,19.7218975075037,19.7218975075037,si,texto leido: 19.7218975075037
+2021,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,18.7427360600434,18.7427360600434,si,texto leido: 18.7427360600434
+2020,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,17.4783218325944,17.4783218325944,si,texto leido: 17.4783218325944
+2019,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,19.2040927326151,19.2040927326151,si,texto leido: 19.2040927326151
+2018,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,20.0992574966974,20.0992574966974,si,texto leido: 20.0992574966974
+2017,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,20.2471681501447,20.2471681501447,si,texto leido: 20.2471681501447
+2016,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,20.2994411874913,20.2994411874913,si,texto leido: 20.2994411874913
+2015,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,19.655363089193,19.655363089193,si,texto leido: 19.655363089193
+2014,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,17.6899198999743,17.6899198999743,si,texto leido: 17.6899198999743
+2013,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,17.7601926027242,17.7601926027242,si,texto leido: 17.7601926027242
+2012,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,19.3167395765437,19.3167395765437,si,texto leido: 19.3167395765437
+2011,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,18.5414829412018,18.5414829412018,si,texto leido: 18.5414829412018
+2010,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,17.1845730248488,17.1845730248488,si,texto leido: 17.1845730248488
+2009,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,17.0874536614932,17.0874536614932,si,texto leido: 17.0874536614932
+2008,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,18.2209865664993,18.2209865664993,si,texto leido: 18.2209865664993
+2007,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,17.9599475890514,17.9599475890514,si,texto leido: 17.9599475890514
+2006,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,17.3077674712014,17.3077674712014,si,texto leido: 17.3077674712014
+2005,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,16.4153459993944,16.4153459993944,si,texto leido: 16.4153459993944
+2004,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,16.730500549778,16.730500549778,si,texto leido: 16.730500549778
+2003,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,16.1546821948592,16.1546821948592,si,texto leido: 16.1546821948592
+2002,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,15.8967847939487,15.8967847939487,si,texto leido: 15.8967847939487
+2001,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,16.8611107637053,16.8611107637053,si,texto leido: 16.8611107637053
+2000,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,18.4266402736022,18.4266402736022,si,texto leido: 18.4266402736022
+1999,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,18.6245645008075,18.6245645008075,si,texto leido: 18.6245645008075
+1998,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,18.9352772694618,18.9352772694618,si,texto leido: 18.9352772694618
+1997,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,17.0627171073756,17.0627171073756,si,texto leido: 17.0627171073756
+1996,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,15.4715511947012,15.4715511947012,si,texto leido: 15.4715511947012
+1995,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,13.3942981691822,13.3942981691822,si,texto leido: 13.3942981691822
+1994,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,17.88991588002,17.88991588002,si,texto leido: 17.88991588002
+1993,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,17.1695919324475,17.1695919324475,si,texto leido: 17.1695919324475
+1992,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,15.8326233545801,15.8326233545801,si,texto leido: 15.8326233545801
+1991,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,14.6536875774364,14.6536875774364,si,texto leido: 14.6536875774364
+1990,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,13.6809910245365,13.6809910245365,si,texto leido: 13.6809910245365
+1989,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,13.1385327560764,13.1385327560764,si,texto leido: 13.1385327560764
+1988,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,14.2414631250991,14.2414631250991,si,texto leido: 14.2414631250991
+1987,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,12.587854699222,12.587854699222,si,texto leido: 12.587854699222
+1986,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,12.4384475090542,12.4384475090542,si,texto leido: 12.4384475090542
+1985,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,11.7672221171637,11.7672221171637,si,texto leido: 11.7672221171637
+1984,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,10.8060624962341,10.8060624962341,si,texto leido: 10.8060624962341
+1983,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,10.4582527819431,10.4582527819431,si,texto leido: 10.4582527819431
+1982,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,12.0277202464301,12.0277202464301,si,texto leido: 12.0277202464301
+1981,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,13.5456238138102,13.5456238138102,si,texto leido: 13.5456238138102
+1980,fbcf_privada,MEX_NE.GDI.FPRV.ZS.json,13.3604580900466,13.3604580900466,si,texto leido: 13.3604580900466
+1970,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,0.010935820639133453,0.010935820639133453,si,texto leido: 0.010935820639133453
+1970,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,0.10523919016122818,0.10523919016122818,si,texto leido: 0.10523919016122818
+1970,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,0.5653079748153687,0.5653079748153687,si,texto leido: 0.5653079748153687
+1970,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,8.322839736938477,8.322839736938477,si,texto leido: 8.322839736938477
+1970,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,80.09355926513672,80.09355926513672,si,texto leido: 80.09355926513672
+1970,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,521.6780395507812,521.6780395507812,si,texto leido: 521.6780395507812
+1971,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,0.01086333766579628,0.01086333766579628,si,texto leido: 0.01086333766579628
+1971,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,0.10454165935516357,0.10454165935516357,si,texto leido: 0.10454165935516357
+1971,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,0.6235089898109436,0.6235089898109436,si,texto leido: 0.6235089898109436
+1971,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,8.180302619934082,8.180302619934082,si,texto leido: 8.180302619934082
+1971,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,78.72187805175781,78.72187805175781,si,texto leido: 78.72187805175781
+1971,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,543.4393920898438,543.4393920898438,si,texto leido: 543.4393920898438
+1972,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,0.013213821686804295,0.013213821686804295,si,texto leido: 0.013213821686804295
+1972,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,0.1271611750125885,0.1271611750125885,si,texto leido: 0.1271611750125885
+1972,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,0.7185800075531006,0.7185800075531006,si,texto leido: 0.7185800075531006
+1972,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,9.181326866149902,9.181326866149902,si,texto leido: 9.181326866149902
+1972,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,88.3550796508789,88.3550796508789,si,texto leido: 88.3550796508789
+1972,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,589.5657348632812,589.5657348632812,si,texto leido: 589.5657348632812
+1973,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,0.0089485552161932,0.0089485552161932,si,texto leido: 0.0089485552161932
+1973,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,0.1657714545726776,0.1657714545726776,si,texto leido: 0.1657714545726776
+1973,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,0.8791170120239258,0.8791170120239258,si,texto leido: 0.8791170120239258
+1973,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,5.732082843780518,5.732082843780518,si,texto leido: 5.732082843780518
+1973,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,106.18649291992188,106.18649291992188,si,texto leido: 106.18649291992188
+1973,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,639.142822265625,639.142822265625,si,texto leido: 639.142822265625
+1974,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,0.01582864671945572,0.01582864671945572,si,texto leido: 0.01582864671945572
+1974,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,0.21855735778808594,0.21855735778808594,si,texto leido: 0.21855735778808594
+1974,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1.144821047782898,1.144821047782898,si,texto leido: 1.144821047782898
+1974,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,8.155364036560059,8.155364036560059,si,texto leido: 8.155364036560059
+1974,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,112.60689544677734,112.60689544677734,si,texto leido: 112.60689544677734
+1974,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,678.1993408203125,678.1993408203125,si,texto leido: 678.1993408203125
+1975,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,0.038337744772434235,0.038337744772434235,si,texto leido: 0.038337744772434235
+1975,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,0.2703872621059418,0.2703872621059418,si,texto leido: 0.2703872621059418
+1975,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1.3997459411621094,1.3997459411621094,si,texto leido: 1.3997459411621094
+1975,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,16.385873794555664,16.385873794555664,si,texto leido: 16.385873794555664
+1975,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,115.56578063964844,115.56578063964844,si,texto leido: 115.56578063964844
+1975,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,716.2536010742188,716.2536010742188,si,texto leido: 716.2536010742188
+1976,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,0.05057534575462341,0.05057534575462341,si,texto leido: 0.05057534575462341
+1976,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,0.3273516893386841,0.3273516893386841,si,texto leido: 0.3273516893386841
+1976,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1.7444729804992676,1.7444729804992676,si,texto leido: 1.7444729804992676
+1976,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,17.737377166748047,17.737377166748047,si,texto leido: 17.737377166748047
+1976,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,114.80614471435547,114.80614471435547,si,texto leido: 114.80614471435547
+1976,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,746.6139526367188,746.6139526367188,si,texto leido: 746.6139526367188
+1977,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,0.044708363711833954,0.044708363711833954,si,texto leido: 0.044708363711833954
+1977,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,0.431375652551651,0.431375652551651,si,texto leido: 0.431375652551651
+1977,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,2.3530728816986084,2.3530728816986084,si,texto leido: 2.3530728816986084
+1977,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,11.611323356628418,11.611323356628418,si,texto leido: 11.611323356628418
+1977,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,112.03368377685547,112.03368377685547,si,texto leido: 112.03368377685547
+1977,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,772.3181762695312,772.3181762695312,si,texto leido: 772.3181762695312
+1978,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,0.09163131564855576,0.09163131564855576,si,texto leido: 0.09163131564855576
+1978,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,0.5536126494407654,0.5536126494407654,si,texto leido: 0.5536126494407654
+1978,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,2.9741950035095215,2.9741950035095215,si,texto leido: 2.9741950035095215
+1978,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,20.223119735717773,20.223119735717773,si,texto leido: 20.223119735717773
+1978,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,122.18285369873047,122.18285369873047,si,texto leido: 122.18285369873047
+1978,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,836.032958984375,836.032958984375,si,texto leido: 836.032958984375
+1979,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,0.1966904103755951,0.1966904103755951,si,texto leido: 0.1966904103755951
+1979,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,0.7447285652160645,0.7447285652160645,si,texto leido: 0.7447285652160645
+1979,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,3.90323805809021,3.90323805809021,si,texto leido: 3.90323805809021
+1979,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,35.77738571166992,35.77738571166992,si,texto leido: 35.77738571166992
+1979,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,135.46385192871094,135.46385192871094,si,texto leido: 135.46385192871094
+1979,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,912.56982421875,912.56982421875,si,texto leido: 912.56982421875
+1980,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,0.4263312518596649,0.4263312518596649,si,texto leido: 0.4263312518596649
+1980,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,0.9271436929702759,0.9271436929702759,si,texto leido: 0.9271436929702759
+1980,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,5.441569805145264,5.441569805145264,si,texto leido: 5.441569805145264
+1980,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,61.99663543701172,61.99663543701172,si,texto leido: 61.99663543701172
+1980,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,134.82424926757812,134.82424926757812,si,texto leido: 134.82424926757812
+1980,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,988.5331420898438,988.5331420898438,si,texto leido: 988.5331420898438
+1981,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,0.7398830056190491,0.7398830056190491,si,texto leido: 0.7398830056190491
+1981,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,1.2373560667037964,1.2373560667037964,si,texto leido: 1.2373560667037964
+1981,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,7.4593658447265625,7.4593658447265625,si,texto leido: 7.4593658447265625
+1981,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,85.60326385498047,85.60326385498047,si,texto leido: 85.60326385498047
+1981,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,143.16009521484375,143.16009521484375,si,texto leido: 143.16009521484375
+1981,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1075.465087890625,1075.465087890625,si,texto leido: 1075.465087890625
+1982,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,0.9000495672225952,0.9000495672225952,si,texto leido: 0.9000495672225952
+1982,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,1.8500584363937378,1.8500584363937378,si,texto leido: 1.8500584363937378
+1982,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,11.927169799804688,11.927169799804688,si,texto leido: 11.927169799804688
+1982,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,62.297340393066406,62.297340393066406,si,texto leido: 62.297340393066406
+1982,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,128.05264282226562,128.05264282226562,si,texto leido: 128.05264282226562
+1982,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1067.86083984375,1067.86083984375,si,texto leido: 1067.86083984375
+1983,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,1.2677432298660278,1.2677432298660278,si,texto leido: 1.2677432298660278
+1983,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,2.5685136318206787,2.5685136318206787,si,texto leido: 2.5685136318206787
+1983,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,21.764347076416016,21.764347076416016,si,texto leido: 21.764347076416016
+1983,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,45.1143798828125,45.1143798828125,si,texto leido: 45.1143798828125
+1983,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,91.40408325195312,91.40408325195312,si,texto leido: 91.40408325195312
+1983,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1021.9871215820312,1021.9871215820312,si,texto leido: 1021.9871215820312
+1984,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,1.8049390316009521,1.8049390316009521,si,texto leido: 1.8049390316009521
+1984,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,4.660892009735107,4.660892009735107,si,texto leido: 4.660892009735107
+1984,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,35.876708984375,35.876708984375,si,texto leido: 35.876708984375
+1984,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,40.558509826660156,40.558509826660156,si,texto leido: 40.558509826660156
+1984,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,104.73418426513672,104.73418426513672,si,texto leido: 104.73418426513672
+1984,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1058.7742919921875,1058.7742919921875,si,texto leido: 1058.7742919921875
+1985,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,3.054468870162964,3.054468870162964,si,texto leido: 3.054468870162964
+1985,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,8.010866165161133,8.010866165161133,si,texto leido: 8.010866165161133
+1985,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,57.691463470458984,57.691463470458984,si,texto leido: 57.691463470458984
+1985,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,43.25580978393555,43.25580978393555,si,texto leido: 43.25580978393555
+1985,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,113.44574737548828,113.44574737548828,si,texto leido: 113.44574737548828
+1985,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1088.126220703125,1088.126220703125,si,texto leido: 1088.126220703125
+1986,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,5.001796245574951,5.001796245574951,si,texto leido: 5.001796245574951
+1986,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,13.849149703979492,13.849149703979492,si,texto leido: 13.849149703979492
+1986,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,96.40220642089844,96.40220642089844,si,texto leido: 96.40220642089844
+1986,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,36.67271423339844,36.67271423339844,si,texto leido: 36.67271423339844
+1986,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,101.54070281982422,101.54070281982422,si,texto leido: 101.54070281982422
+1986,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1047.2789306640625,1047.2789306640625,si,texto leido: 1047.2789306640625
+1987,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,9.713910102844238,9.713910102844238,si,texto leido: 9.713910102844238
+1987,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,33.90375900268555,33.90375900268555,si,texto leido: 33.90375900268555
+1987,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,235.32443237304688,235.32443237304688,si,texto leido: 235.32443237304688
+1987,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,30.74323272705078,30.74323272705078,si,texto leido: 30.74323272705078
+1987,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,107.3008804321289,107.3008804321289,si,texto leido: 107.3008804321289
+1987,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1066.7137451171875,1066.7137451171875,si,texto leido: 1066.7137451171875
+1988,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,17.249549865722656,17.249549865722656,si,texto leido: 17.249549865722656
+1988,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,74.7127914428711,74.7127914428711,si,texto leido: 74.7127914428711
+1988,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,475.30908203125,475.30908203125,si,texto leido: 475.30908203125
+1988,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,27.38995361328125,27.38995361328125,si,texto leido: 27.38995361328125
+1988,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,118.63381958007812,118.63381958007812,si,texto leido: 118.63381958007812
+1988,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1079.9990234375,1079.9990234375,si,texto leido: 1079.9990234375
+1989,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,21.712514877319336,21.712514877319336,si,texto leido: 21.712514877319336
+1989,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,91.192138671875,91.192138671875,si,texto leido: 91.192138671875
+1989,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,626.6488037109375,626.6488037109375,si,texto leido: 626.6488037109375
+1989,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,29.696617126464844,29.696617126464844,si,texto leido: 29.696617126464844
+1989,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,124.72521209716797,124.72521209716797,si,texto leido: 124.72521209716797
+1989,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1125.3404541015625,1125.3404541015625,si,texto leido: 1125.3404541015625
+1990,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,29.742202758789062,29.742202758789062,si,texto leido: 29.742202758789062
+1990,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,127.81836700439453,127.81836700439453,si,texto leido: 127.81836700439453
+1990,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,843.623046875,843.623046875,si,texto leido: 843.623046875
+1990,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,32.975311279296875,32.975311279296875,si,texto leido: 32.975311279296875
+1990,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,141.71278381347656,141.71278381347656,si,texto leido: 141.71278381347656
+1990,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1182.376220703125,1182.376220703125,si,texto leido: 1182.376220703125
+1991,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,36.295162200927734,36.295162200927734,si,texto leido: 36.295162200927734
+1991,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,174.85015869140625,174.85015869140625,si,texto leido: 174.85015869140625
+1991,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1083.67236328125,1083.67236328125,si,texto leido: 1083.67236328125
+1991,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,33.32940673828125,33.32940673828125,si,texto leido: 33.32940673828125
+1991,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,160.56277465820312,160.56277465820312,si,texto leido: 160.56277465820312
+1991,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1232.299072265625,1232.299072265625,si,texto leido: 1232.299072265625
+1992,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,40.11552047729492,40.11552047729492,si,texto leido: 40.11552047729492
+1992,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,222.9105682373047,222.9105682373047,si,texto leido: 222.9105682373047
+1992,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1284.830322265625,1284.830322265625,si,texto leido: 1284.830322265625
+1992,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,32.776771545410156,32.776771545410156,si,texto leido: 32.776771545410156
+1992,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,182.1312255859375,182.1312255859375,si,texto leido: 182.1312255859375
+1992,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1277.0150146484375,1277.0150146484375,si,texto leido: 1277.0150146484375
+1993,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,47.66749572753906,47.66749572753906,si,texto leido: 47.66749572753906
+1993,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,277.60296630859375,277.60296630859375,si,texto leido: 277.60296630859375
+1993,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1560.09326171875,1560.09326171875,si,texto leido: 1560.09326171875
+1993,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,36.4395751953125,36.4395751953125,si,texto leido: 36.4395751953125
+1993,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,212.21450805664062,212.21450805664062,si,texto leido: 212.21450805664062
+1993,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1322.3990478515625,1322.3990478515625,si,texto leido: 1322.3990478515625
+1994,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,70.5625,70.5625,si,texto leido: 70.5625
+1994,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,315.5285949707031,315.5285949707031,si,texto leido: 315.5285949707031
+1994,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1781.4224853515625,1781.4224853515625,si,texto leido: 1781.4224853515625
+1994,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,52.112789154052734,52.112789154052734,si,texto leido: 52.112789154052734
+1994,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,233.02850341796875,233.02850341796875,si,texto leido: 233.02850341796875
+1994,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1387.73974609375,1387.73974609375,si,texto leido: 1387.73974609375
+1995,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,68.8027572631836,68.8027572631836,si,texto leido: 68.8027572631836
+1995,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,309.2140808105469,309.2140808105469,si,texto leido: 309.2140808105469
+1995,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,2311.45849609375,2311.45849609375,si,texto leido: 2311.45849609375
+1995,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,33.29472351074219,33.29472351074219,si,texto leido: 33.29472351074219
+1995,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,149.63351440429688,149.63351440429688,si,texto leido: 149.63351440429688
+1995,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1300.433837890625,1300.433837890625,si,texto leido: 1300.433837890625
+1996,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,73.67749786376953,73.67749786376953,si,texto leido: 73.67749786376953
+1996,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,501.4170837402344,501.4170837402344,si,texto leido: 501.4170837402344
+1996,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,3123.16796875,3123.16796875,si,texto leido: 3123.16796875
+1996,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,27.982818603515625,27.982818603515625,si,texto leido: 27.982818603515625
+1996,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,190.43890380859375,190.43890380859375,si,texto leido: 190.43890380859375
+1996,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1388.515625,1388.515625,si,texto leido: 1388.515625
+1997,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,96.66300201416016,96.66300201416016,si,texto leido: 96.66300201416016
+1997,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,689.7653198242188,689.7653198242188,si,texto leido: 689.7653198242188
+1997,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,3962.524169921875,3962.524169921875,si,texto leido: 3962.524169921875
+1997,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,30.920400619506836,30.920400619506836,si,texto leido: 30.920400619506836
+1997,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,220.64096069335938,220.64096069335938,si,texto leido: 220.64096069335938
+1997,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1483.585205078125,1483.585205078125,si,texto leido: 1483.585205078125
+1998,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,105.9384994506836,105.9384994506836,si,texto leido: 105.9384994506836
+1998,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,908.4380493164062,908.4380493164062,si,texto leido: 908.4380493164062
+1998,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,4810.12353515625,4810.12353515625,si,texto leido: 4810.12353515625
+1998,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,29.022689819335938,29.022689819335938,si,texto leido: 29.022689819335938
+1998,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,248.87379455566406,248.87379455566406,si,texto leido: 248.87379455566406
+1998,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1560.1966552734375,1560.1966552734375,si,texto leido: 1560.1966552734375
+1999,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,137.26400756835938,137.26400756835938,si,texto leido: 137.26400756835938
+1999,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,1074.511962890625,1074.511962890625,si,texto leido: 1074.511962890625
+1999,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,5738.46630859375,5738.46630859375,si,texto leido: 5738.46630859375
+1999,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,33.22916030883789,33.22916030883789,si,texto leido: 33.22916030883789
+1999,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,260.1201477050781,260.1201477050781,si,texto leido: 260.1201477050781
+1999,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1603.1573486328125,1603.1573486328125,si,texto leido: 1603.1573486328125
+2000,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,196.7265167236328,196.7265167236328,si,texto leido: 196.7265167236328
+2000,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,1241.6717529296875,1241.6717529296875,si,texto leido: 1241.6717529296875
+2000,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,6693.68310546875,6693.68310546875,si,texto leido: 6693.68310546875
+2000,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,42.220638275146484,42.220638275146484,si,texto leido: 42.220638275146484
+2000,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,266.48248291015625,266.48248291015625,si,texto leido: 266.48248291015625
+2000,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1682.392578125,1682.392578125,si,texto leido: 1682.392578125
+2001,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,209.156005859375,209.156005859375,si,texto leido: 209.156005859375
+2001,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,1200.032470703125,1200.032470703125,si,texto leido: 1200.032470703125
+2001,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,7069.37744140625,7069.37744140625,si,texto leido: 7069.37744140625
+2001,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,42.4864501953125,42.4864501953125,si,texto leido: 42.4864501953125
+2001,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,243.7659912109375,243.7659912109375,si,texto leido: 243.7659912109375
+2001,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1675.5892333984375,1675.5892333984375,si,texto leido: 1675.5892333984375
+2002,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,271.7132568359375,271.7132568359375,si,texto leido: 271.7132568359375
+2002,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,1164.9107666015625,1164.9107666015625,si,texto leido: 1164.9107666015625
+2002,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,7455.458984375,7455.458984375,si,texto leido: 7455.458984375
+2002,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,52.908485412597656,52.908485412597656,si,texto leido: 52.908485412597656
+2002,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,226.83348083496094,226.83348083496094,si,texto leido: 226.83348083496094
+2002,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1674.9215087890625,1674.9215087890625,si,texto leido: 1674.9215087890625
+2003,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,326.1992492675781,326.1992492675781,si,texto leido: 326.1992492675781
+2003,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,1230.086181640625,1230.086181640625,si,texto leido: 1230.086181640625
+2003,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,7868.8095703125,7868.8095703125,si,texto leido: 7868.8095703125
+2003,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,59.25120544433594,59.25120544433594,si,texto leido: 59.25120544433594
+2003,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,223.4342498779297,223.4342498779297,si,texto leido: 223.4342498779297
+2003,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1699.1473388671875,1699.1473388671875,si,texto leido: 1699.1473388671875
+2004,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,374.5992431640625,374.5992431640625,si,texto leido: 374.5992431640625
+2004,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,1433.137939453125,1433.137939453125,si,texto leido: 1433.137939453125
+2004,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,8828.3671875,8828.3671875,si,texto leido: 8828.3671875
+2004,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,62.733070373535156,62.733070373535156,si,texto leido: 62.733070373535156
+2004,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,240.00350952148438,240.00350952148438,si,texto leido: 240.00350952148438
+2004,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1765.7640380859375,1765.7640380859375,si,texto leido: 1765.7640380859375
+2005,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,429.48675537109375,429.48675537109375,si,texto leido: 429.48675537109375
+2005,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,1550.3358154296875,1550.3358154296875,si,texto leido: 1550.3358154296875
+2005,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,9562.6484375,9562.6484375,si,texto leido: 9562.6484375
+2005,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,69.75030517578125,69.75030517578125,si,texto leido: 69.75030517578125
+2005,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,251.78054809570312,251.78054809570312,si,texto leido: 251.78054809570312
+2005,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1806.5145263671875,1806.5145263671875,si,texto leido: 1806.5145263671875
+2006,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,486.1967468261719,486.1967468261719,si,texto leido: 486.1967468261719
+2006,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,1804.0625,1804.0625,si,texto leido: 1804.0625
+2006,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,10630.939453125,10630.939453125,si,texto leido: 10630.939453125
+2006,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,74.61428833007812,74.61428833007812,si,texto leido: 74.61428833007812
+2006,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,276.86083984375,276.86083984375,si,texto leido: 276.86083984375
+2006,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1887.71875,1887.71875,si,texto leido: 1887.71875
+2007,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,529.4547729492188,529.4547729492188,si,texto leido: 529.4547729492188
+2007,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,1994.758544921875,1994.758544921875,si,texto leido: 1994.758544921875
+2007,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,11504.0751953125,11504.0751953125,si,texto leido: 11504.0751953125
+2007,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,78.00958251953125,78.00958251953125,si,texto leido: 78.00958251953125
+2007,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,293.9066467285156,293.9066467285156,si,texto leido: 293.9066467285156
+2007,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1930.9747314453125,1930.9747314453125,si,texto leido: 1930.9747314453125
+2008,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,690.4080200195312,690.4080200195312,si,texto leido: 690.4080200195312
+2008,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,2171.28515625,2171.28515625,si,texto leido: 2171.28515625
+2008,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,12353.845703125,12353.845703125,si,texto leido: 12353.845703125
+2008,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,95.6103515625,95.6103515625,si,texto leido: 95.6103515625
+2008,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,300.6878967285156,300.6878967285156,si,texto leido: 300.6878967285156
+2008,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1953.056884765625,1953.056884765625,si,texto leido: 1953.056884765625
+2009,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,725.1210327148438,725.1210327148438,si,texto leido: 725.1210327148438
+2009,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,1966.0697021484375,1966.0697021484375,si,texto leido: 1966.0697021484375
+2009,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,12162.7626953125,12162.7626953125,si,texto leido: 12162.7626953125
+2009,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,94.31975555419922,94.31975555419922,si,texto leido: 94.31975555419922
+2009,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,255.7355499267578,255.7355499267578,si,texto leido: 255.7355499267578
+2009,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1849.823486328125,1849.823486328125,si,texto leido: 1849.823486328125
+2010,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,749.9317626953125,749.9317626953125,si,texto leido: 749.9317626953125
+2010,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,2134.8935546875,2134.8935546875,si,texto leido: 2134.8935546875
+2010,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,13366.376953125,13366.376953125,si,texto leido: 13366.376953125
+2010,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,95.28849029541016,95.28849029541016,si,texto leido: 95.28849029541016
+2010,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,271.2657165527344,271.2657165527344,si,texto leido: 271.2657165527344
+2010,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,1944.4996337890625,1944.4996337890625,si,texto leido: 1944.4996337890625
+2011,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,752.9932250976562,752.9932250976562,si,texto leido: 752.9932250976562
+2011,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,2513.604736328125,2513.604736328125,si,texto leido: 2513.604736328125
+2011,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,14665.576171875,14665.576171875,si,texto leido: 14665.576171875
+2011,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,91.12647247314453,91.12647247314453,si,texto leido: 91.12647247314453
+2011,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,304.19390869140625,304.19390869140625,si,texto leido: 304.19390869140625
+2011,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,2015.726806640625,2015.726806640625,si,texto leido: 2015.726806640625
+2012,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,723.1687622070312,723.1687622070312,si,texto leido: 723.1687622070312
+2012,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,2889.675537109375,2889.675537109375,si,texto leido: 2889.675537109375
+2012,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,15817.7548828125,15817.7548828125,si,texto leido: 15817.7548828125
+2012,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,83.02876281738281,83.02876281738281,si,texto leido: 83.02876281738281
+2012,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,331.7706604003906,331.7706604003906,si,texto leido: 331.7706604003906
+2012,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,2089.14599609375,2089.14599609375,si,texto leido: 2089.14599609375
+2013,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,717.6442260742188,717.6442260742188,si,texto leido: 717.6442260742188
+2013,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,2741.659423828125,2741.659423828125,si,texto leido: 2741.659423828125
+2013,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,16277.1875,16277.1875,si,texto leido: 16277.1875
+2013,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,83.16826629638672,83.16826629638672,si,texto leido: 83.16826629638672
+2013,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,317.73272705078125,317.73272705078125,si,texto leido: 317.73272705078125
+2013,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,2117.43505859375,2117.43505859375,si,texto leido: 2117.43505859375
+2014,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,722.9259033203125,722.9259033203125,si,texto leido: 722.9259033203125
+2014,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,2949.228759765625,2949.228759765625,si,texto leido: 2949.228759765625
+2014,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,17473.841796875,17473.841796875,si,texto leido: 17473.841796875
+2014,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,81.34428405761719,81.34428405761719,si,texto leido: 81.34428405761719
+2014,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,331.84991455078125,331.84991455078125,si,texto leido: 331.84991455078125
+2014,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,2176.81494140625,2176.81494140625,si,texto leido: 2176.81494140625
+2015,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,677.6432495117188,677.6432495117188,si,texto leido: 677.6432495117188
+2015,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,3500.428466796875,3500.428466796875,si,texto leido: 3500.428466796875
+2015,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,18551.458984375,18551.458984375,si,texto leido: 18551.458984375
+2015,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,70.37248229980469,70.37248229980469,si,texto leido: 70.37248229980469
+2015,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,363.5155029296875,363.5155029296875,si,texto leido: 363.5155029296875
+2015,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,2248.388427734375,2248.388427734375,si,texto leido: 2248.388427734375
+2016,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,716.0769653320312,716.0769653320312,si,texto leido: 716.0769653320312
+2016,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,3896.3662109375,3896.3662109375,si,texto leido: 3896.3662109375
+2016,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,20118.1015625,20118.1015625,si,texto leido: 20118.1015625
+2016,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,68.06391906738281,68.06391906738281,si,texto leido: 68.06391906738281
+2016,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,370.35400390625,370.35400390625,si,texto leido: 370.35400390625
+2016,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,2313.8291015625,2313.8291015625,si,texto leido: 2313.8291015625
+2017,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,674.8678588867188,674.8678588867188,si,texto leido: 674.8678588867188
+2017,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,4173.919921875,4173.919921875,si,texto leido: 4173.919921875
+2017,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,21911.89453125,21911.89453125,si,texto leido: 21911.89453125
+2017,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,60.05689239501953,60.05689239501953,si,texto leido: 60.05689239501953
+2017,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,371.4396057128906,371.4396057128906,si,texto leido: 371.4396057128906
+2017,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,2362.837646484375,2362.837646484375,si,texto leido: 2362.837646484375
+2018,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,713.9766845703125,713.9766845703125,si,texto leido: 713.9766845703125
+2018,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,4470.68115234375,4470.68115234375,si,texto leido: 4470.68115234375
+2018,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,23491.5078125,23491.5078125,si,texto leido: 23491.5078125
+2018,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,59.96107482910156,59.96107482910156,si,texto leido: 59.96107482910156
+2018,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,375.4560241699219,375.4560241699219,si,texto leido: 375.4560241699219
+2018,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,2413.306884765625,2413.306884765625,si,texto leido: 2413.306884765625
+2019,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,637.5221557617188,637.5221557617188,si,texto leido: 637.5221557617188
+2019,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,4415.40966796875,4415.40966796875,si,texto leido: 4415.40966796875
+2019,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,24203.6171875,24203.6171875,si,texto leido: 24203.6171875
+2019,fbcf_publica,IMFInvestmentandCapitalStockDataset2021.xlsx,52.14187240600586,52.14187240600586,si,texto leido: 52.14187240600586
+2019,fbcf_privada,IMFInvestmentandCapitalStockDataset2021.xlsx,361.1289978027344,361.1289978027344,si,texto leido: 361.1289978027344
+2019,pib,IMFInvestmentandCapitalStockDataset2021.xlsx,2405.968994140625,2405.968994140625,si,texto leido: 2405.968994140625
