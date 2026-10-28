@@ -1,0 +1,96 @@
+id,inciso,pagina_pdf,pasaje_en_pagina,nota
+P01,a,,no_aplica,sin pasaje (relacion = no_aparece)
+P01,b,,no_aplica,sin pasaje (relacion = no_aparece)
+P02,a,html,si,coincide: tal cual
+P03,a,32,si,coincide: uniendo palabras cortadas a fin de línea
+P04,a,,no_aplica,sin pasaje (relacion = no_aparece)
+P05,a,,no_aplica,sin pasaje (relacion = no_aparece)
+P05,b,,no_aplica,sin pasaje (relacion = no_aparece)
+P06,a,,no_aplica,sin pasaje (relacion = no_aparece)
+P07,a,,no_aplica,sin pasaje (relacion = no_aparece)
+P08,a,15,si,coincide: sin espacios (uniendo palabras cortadas a fin de línea)
+P09,a,1,si,coincide: tal cual
+P09,b,9,si,coincide: tal cual
+P10,a,,no_aplica,sin pasaje (relacion = no_aparece)
+P11,a,24,si,coincide: tal cual
+P11,b,9,si,coincide: uniendo palabras cortadas a fin de línea
+P12,a,36,si,coincide: tal cual
+P12,b,36,si,coincide: tal cual
+P12,c,36,si,coincide: tal cual
+P12,d,33,si,coincide: tal cual
+P12,e,2,no_aplica,leído de imagen o transcrito; cotejar contra la página
+P13,a,,no_aplica,sin pasaje (relacion = no_aparece)
+P13,b,,no_aplica,sin pasaje (relacion = no_aparece)
+R01,a,,no_aplica,sin pasaje (relacion = no_aparece)
+M01,a,,no_aplica,sin pasaje (relacion = no_aparece)
+M01,b,,no_aplica,sin pasaje (relacion = no_aparece)
+M02,a,,no_aplica,sin pasaje (relacion = no_aparece)
+M02,b,,no_aplica,sin pasaje (relacion = no_aparece)
+M02b,a,6,no_aplica,leído de imagen o transcrito; cotejar contra la página
+M02b,b,15,si,coincide: uniendo palabras cortadas a fin de línea
+V01b,C1iii_titulo,36,si,coincide: sin espacios (uniendo palabras cortadas a fin de línea)
+V01b,C1iii_k1,36,si,coincide: sin espacios (uniendo palabras cortadas a fin de línea)
+V01b,C1iii_k2,36,si,coincide: sin espacios (uniendo palabras cortadas a fin de línea)
+V01b,C1iii_k3,36,si,coincide: sin espacios (uniendo palabras cortadas a fin de línea)
+V01b,C2iii_titulo,38,si,coincide: sin espacios (uniendo palabras cortadas a fin de línea)
+V01b,C2iii_k1,38,si,coincide: sin espacios (uniendo palabras cortadas a fin de línea)
+V01b,C2iii_k2,38,si,coincide: sin espacios (uniendo palabras cortadas a fin de línea)
+V01b,C2iii_k3,38,si,coincide: sin espacios (uniendo palabras cortadas a fin de línea)
+V02,a,,no_aplica,sin pasaje (relacion = no_aparece)
+P11-especificacion,periodo_series,10,si,coincide: tal cual
+P11-especificacion,periodo_estimacion_ADL,24,si,coincide: tal cual
+P11-especificacion,subperiodos_multiplicadores,9,si,coincide: tal cual
+P11-especificacion,frecuencia,11,si,coincide: sin espacios (uniendo palabras cortadas a fin de línea)
+P11-especificacion,variable_dependiente,22,si,coincide: tal cual
+P11-especificacion,variables_explicativas,23,si,coincide: tal cual
+P11-especificacion,unidades_y_transformacion,22,si,coincide: tal cual
+P11-especificacion,fuentes,10,si,coincide: tal cual
+P11-especificacion,metodo,22,si,coincide: tal cual
+P11-especificacion,estimador,12,si,coincide: tal cual
+P11-especificacion,regla_de_rezagos,22,si,coincide: sin espacios (uniendo palabras cortadas a fin de línea)
+P11-especificacion,rezagos_elegidos,22,si,coincide: tal cual
+P11-especificacion,raices_unitarias,23,si,coincide: tal cual
+P11-especificacion,prueba_cointegracion,24,si,coincide: tal cual
+P11-especificacion,resultado_cointegracion,24,si,coincide: tal cual
+P11-especificacion,coef_IG_contemporanea,23,si,coincide: tal cual
+P11-especificacion,coef_IG_rezagada,23,si,coincide: tal cual
+P11-especificacion,efecto_neto_IG,24,si,coincide: tal cual
+P11-especificacion,otros_coeficientes,23,si,coincide: tal cual
+P11-especificacion,corto_plazo_MCE,22,si,coincide: tal cual
+P11-especificacion,diagnostico,24,si,coincide: tal cual
+CRAN-dynamac,k1_n65_0.10,dynamac.R:2479,si,I0 e I1 en la línea del código
+CRAN-dynamac,k1_n65_0.05,dynamac.R:2479,si,I0 e I1 en la línea del código
+CRAN-dynamac,k1_n65_0.01,dynamac.R:2479,si,I0 e I1 en la línea del código
+CRAN-dynamac,k2_n65_0.10,dynamac.R:2480,si,I0 e I1 en la línea del código
+CRAN-dynamac,k2_n65_0.05,dynamac.R:2480,si,I0 e I1 en la línea del código
+CRAN-dynamac,k2_n65_0.01,dynamac.R:2480,si,I0 e I1 en la línea del código
+CRAN-dynamac,k3_n65_0.10,dynamac.R:2481,si,I0 e I1 en la línea del código
+CRAN-dynamac,k3_n65_0.05,dynamac.R:2481,si,I0 e I1 en la línea del código
+CRAN-dynamac,k3_n65_0.01,dynamac.R:2481,si,I0 e I1 en la línea del código
+CRAN-dynamac,k1_n70_0.10,dynamac.R:2605,si,I0 e I1 en la línea del código
+CRAN-dynamac,k1_n70_0.05,dynamac.R:2605,si,I0 e I1 en la línea del código
+CRAN-dynamac,k1_n70_0.01,dynamac.R:2605,si,I0 e I1 en la línea del código
+CRAN-dynamac,k2_n70_0.10,dynamac.R:2606,si,I0 e I1 en la línea del código
+CRAN-dynamac,k2_n70_0.05,dynamac.R:2606,si,I0 e I1 en la línea del código
+CRAN-dynamac,k2_n70_0.01,dynamac.R:2606,si,I0 e I1 en la línea del código
+CRAN-dynamac,k3_n70_0.10,dynamac.R:2607,si,I0 e I1 en la línea del código
+CRAN-dynamac,k3_n70_0.05,dynamac.R:2607,si,I0 e I1 en la línea del código
+CRAN-dynamac,k3_n70_0.01,dynamac.R:2607,si,I0 e I1 en la línea del código
+CRAN-dynamac,k1_n75_0.10,dynamac.R:2731,si,I0 e I1 en la línea del código
+CRAN-dynamac,k1_n75_0.05,dynamac.R:2731,si,I0 e I1 en la línea del código
+CRAN-dynamac,k1_n75_0.01,dynamac.R:2731,si,I0 e I1 en la línea del código
+CRAN-dynamac,k2_n75_0.10,dynamac.R:2732,si,I0 e I1 en la línea del código
+CRAN-dynamac,k2_n75_0.05,dynamac.R:2732,si,I0 e I1 en la línea del código
+CRAN-dynamac,k2_n75_0.01,dynamac.R:2732,si,I0 e I1 en la línea del código
+CRAN-dynamac,k3_n75_0.10,dynamac.R:2733,si,I0 e I1 en la línea del código
+CRAN-dynamac,k3_n75_0.05,dynamac.R:2733,si,I0 e I1 en la línea del código
+CRAN-dynamac,k3_n75_0.01,dynamac.R:2733,si,I0 e I1 en la línea del código
+CRAN-dynamac,k1_nasintotico_0.10,dynamac.R:2987,si,I0 e I1 en la línea del código
+CRAN-dynamac,k1_nasintotico_0.05,dynamac.R:2987,si,I0 e I1 en la línea del código
+CRAN-dynamac,k1_nasintotico_0.01,dynamac.R:2987,si,I0 e I1 en la línea del código
+CRAN-dynamac,k2_nasintotico_0.10,dynamac.R:2988,si,I0 e I1 en la línea del código
+CRAN-dynamac,k2_nasintotico_0.05,dynamac.R:2988,si,I0 e I1 en la línea del código
+CRAN-dynamac,k2_nasintotico_0.01,dynamac.R:2988,si,I0 e I1 en la línea del código
+CRAN-dynamac,k3_nasintotico_0.10,dynamac.R:2989,si,I0 e I1 en la línea del código
+CRAN-dynamac,k3_nasintotico_0.05,dynamac.R:2989,si,I0 e I1 en la línea del código
+CRAN-dynamac,k3_nasintotico_0.01,dynamac.R:2989,si,I0 e I1 en la línea del código
